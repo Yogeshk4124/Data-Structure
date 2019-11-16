@@ -1,6 +1,6 @@
 /*
 MADE BY:YOGESH KUMAR
-Write a menu Driven program that implement following on a linear arrar:
+Write a menu Driven program that implement following on a linear array:
 1.Insert a new Element
 2.Delete an element from a given position
 3.To display the elements of the linear array
