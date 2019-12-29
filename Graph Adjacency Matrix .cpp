@@ -1,3 +1,9 @@
+/*
+This program implements the following things:
+1.How to make graph using Adjacency Matrix.
+2.Depth First Search(DFS) using Stack and recursively methods
+3.Breadth First Search(BFS) using Queue and recursively methods
+*/
 #include<iostream>
 #include<vector>
 using namespace std;
